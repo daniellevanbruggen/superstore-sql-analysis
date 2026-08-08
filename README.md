@@ -1,4 +1,4 @@
-# Superstore Sales — SQL Analysis
+# Superstore Sales - SQL Analysis
 
 End-to-end SQL business performance analysis of a fictional US 
 retail company - investigating regional profitability, product 
@@ -30,8 +30,7 @@ revenue but a 4-point higher margin (11.9%).
 ### Finding 2 - Loss-making sub-categories are a pricing problem
 Only three sub-categories are loss-making: Tables (USD -17,725), 
 Bookcases (USD -3,473), and Supplies (USD -1,189). Tables and 
-Bookcases generate USD 207k and USD 115k in revenue respectively 
-- the losses are caused by aggressive discounting (26.1% and 
+Bookcases generate USD 207k and USD 115k in revenue respectively - the losses are caused by aggressive discounting (26.1% and 
 21.1%), not low demand.
 
 ### Finding 3 - Hard discount tipping point at 20%
